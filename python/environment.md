@@ -14,7 +14,7 @@ breadcrumbs:
 
 ## Pythonのインストールについて
 
-GitHub CodeSpaceでは、デフォルトでPythonがインストールされています。
+GitHub CodeSpacesでは、デフォルトでPythonがインストールされています。
 
 Pythonのバージョンは以下で確認できます。
 
