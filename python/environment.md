@@ -6,9 +6,9 @@ breadcrumbs:
       url: /python/
 ---
 
-{% include breadcrumbs.html %}
-
 <img src="../assets/images/python-logo-only.svg" width="80" alt="Pythonロゴ">
+
+{% include breadcrumbs.html %}
 
 # 開発環境の構築について
 
