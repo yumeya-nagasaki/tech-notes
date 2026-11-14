@@ -1,0 +1,12 @@
+<nav aria-label="パンくずリスト">
+    <a href="{{ '/' | relative_url }}">ホーム</a>
+
+    {% for item in page.breadcrumbs %}
+        &gt;
+        <a href="{{ item.url | relative_url }}">
+            {{ item.title }}
+        </a>
+    {% endfor %}
+
+    &gt; {{ page.title }}
+</nav>
