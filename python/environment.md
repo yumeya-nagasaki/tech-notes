@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Python 開発環境の構築について
+title: 開発環境の構築について
 breadcrumbs:
     - title: Python
       url: /python/
