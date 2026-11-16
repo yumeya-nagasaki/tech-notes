@@ -14,3 +14,7 @@ title: ホーム
 ### プログラミング言語
 
 * [Python](python/)
+
+### フレームワーク
+
+* [Django](django/)
