@@ -19,3 +19,14 @@ Djangoのインストールは仮想環境を有効にした状態で以下の�
 ```bash
 python -m pip install Django
 ```
+
+## バージョンの確認
+
+Djangoのバージョンはpythonスクリプトから確認できます。
+
+```bash
+python
+
+>>> import django
+>>> print(django.get_version())
+```
