@@ -8,3 +8,5 @@ title: Django
 {% include breadcrumbs.html %}
 
 # Django
+
+* [Djangoのインストール](install.md)
