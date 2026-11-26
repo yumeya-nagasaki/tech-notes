@@ -10,3 +10,4 @@ title: Django
 # Django
 
 * [Djangoのインストール](install.md)
+* [プロジェクトの作成](startproject.md)
