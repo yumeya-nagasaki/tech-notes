@@ -52,5 +52,5 @@ cd djangotutorial
 python manage.py runserver
 ```
 
-サーバが起動したら `http://localhost:8000/` にアクセスすると画面が表示されます。\n
+サーバが起動したら `http://localhost:8000/` にアクセスすると画面が表示されます。  
 GitHub Codespacesを使用している場合、「ポート」タブの `4000` ポートが転送されたアドレスにアクセスしてください。
