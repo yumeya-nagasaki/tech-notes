@@ -40,3 +40,17 @@ djangotutorial/          ← 第2引数：プロジェクト全体をまとめ�
     ├── asgi.py
     └── wsgi.py
 ```
+
+## 開発サーバの起動
+
+開発サーバの起動は以下のコマンドを実行します。
+
+※フォルダ名を `djangotutorial` に指定した場合
+
+```bash
+cd djangotutorial
+python manage.py runserver
+```
+
+サーバが起動したら `http://localhost:8000/` にアクセスすると画面が表示されます。\n
+GitHub Codespacesを使用している場合、「ポート」タブの `4000` ポートが転送されたアドレスにアクセスしてください。
